@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notice_item.xml",
+        "source": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\src\\main\\res\\layout\\notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\warn_item.xml",
+        "source": "C:\\Users\\HAPGANG\\StudioProjects\\esp_tcp\\app\\src\\main\\res\\layout\\warn_item.xml"
+    }
+]

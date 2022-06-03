@@ -1,0 +1,16 @@
+com/hg/esp_tcp/BuildConfig.java
+ com.hg.esp_tcp.BuildConfig
+com/hg/esp_tcp/databinding/ContentMainBinding.java
+ com.hg.esp_tcp.databinding.ContentMainBinding
+com/hg/esp_tcp/databinding/ActivityMainBinding.java
+ com.hg.esp_tcp.databinding.ActivityMainBinding
+com/hg/esp_tcp/ItemWarn.java
+ com.hg.esp_tcp.ItemWarn
+com/hg/esp_tcp/databinding/WarnItemBinding.java
+ com.hg.esp_tcp.databinding.WarnItemBinding
+com/hg/esp_tcp/databinding/FragmentFirstBinding.java
+ com.hg.esp_tcp.databinding.FragmentFirstBinding
+com/hg/esp_tcp/databinding/NoticeItemBinding.java
+ com.hg.esp_tcp.databinding.NoticeItemBinding
+com/hg/esp_tcp/databinding/FragmentSecondBinding.java
+ com.hg.esp_tcp.databinding.FragmentSecondBinding
